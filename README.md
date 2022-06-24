@@ -1,0 +1,2 @@
+# Detection-and-Recognition-of-Objects-and-Labels-on-the-Objects-in-Manufacturing-Environment
+Detecting the mechanical objects like hammer and wrench using OpenCV and harcascade classifiers and Detecting and Recognizing the text with the help of EasyOCR. Detecting and recognizing the text can be used as part of an Intelligence in robot. Language Used: Python   Library Used: OpenCV, EasyOCR, Harcascade classifier
